@@ -16,7 +16,7 @@ Registro rápido de estudos, pequenos avanços, travamentos resolvidos e aprendi
 - **Principal aprendizado ou erro resolvido:** 
 - **Próximo passo:** 
 - **Energia do dia:** 🟢 Alta | 🟡 Média | 🔴 Baixa (mas fiz o mínimo!)
-- **Palavra do dia** 
+- **Palavra do dia:** 
 ```
 
 ---
@@ -30,4 +30,4 @@ Registro rápido de estudos, pequenos avanços, travamentos resolvidos e aprendi
 - **Principal aprendizado ou erro resolvido:** O Git versiona arquivos e não pastas vazias; criar um `README.md` em cada diretório garante que toda a estrutura apareça organizada no GitHub.
 - **Próximo passo:** Iniciar a semana piloto (23/11) testando o bloco de 30–45 min à noite e fixar os agendamentos da United e do Cambly.
 - **Energia do dia:** 🟢 Alta
-- **Palavra do dia** Satisfação
+- **Palavra do dia:** Satisfação
