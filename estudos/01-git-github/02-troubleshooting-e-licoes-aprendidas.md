@@ -10,7 +10,8 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
 * **Solução:** Instalar o Git para Windows (mantendo a opção de adicionar ao PATH) e reiniciar completamente o VS Code.
 * **Verificação:** Rodar `git --version` e confirmar o retorno da versão instalada.
 
-![Erro 01](./assets/01-erro-git-nao-reconhecido.png)
+![Erro 01](assets/01-erro-git-nao-reconhecido.png)
+*Figura 1: Erro exibido no PowerShell do VS Code antes de reiniciar o editor.*
 
 ---
 
@@ -24,6 +25,7 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
 * **Prevenção:** Sempre rodar `git pull` antes de começar a editar arquivos localmente caso tenha feito alguma alteração direto no site do GitHub.
 
 ![Erro 02](./assets/02-erro-push-rejected.png)
+*Figura 2: Erro ao tentar realizar o pull.*
 
 ---
 
@@ -37,6 +39,7 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
 * **Prevenção:** Evitar manter repositórios Git dentro de pastas sincronizadas pelo OneDrive (preferir caminhos locais como `C:\Projetos\`).
 
 ![Erro 03](assets/03-erro-deletion-of-directory-rebase.png)
+*Figura 3: Erro ao tentar deletar diretório.*
 
 ---
 
@@ -48,4 +51,5 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
   Remove-Item -Recurse -Force ".\.git\rebase-merge"
 * **Verificação:** Reabrir o VS Code e confirmar com `git status` que o aviso `You are currently rebasing` desapareceu.
 
-![Eroo 04](assets/04-erro-deletion-rebase-merge.png)
+![Erro 04](assets/04-erro-deletion-rebase-merge.png)
+*Figura 4: Erro ao tentar deletar diretório.*
