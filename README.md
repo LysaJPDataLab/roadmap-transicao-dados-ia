@@ -7,7 +7,7 @@ Repositório central de planejamento, estudos práticos e evolução técnica da
 - **Início da adaptação:** 19/11/2026 a 30/11/2026.
 - **Início oficial do roadmap:** 01/12/2026.
 - **Horizonte:** 6 meses (Dez/2026 a Mai/2027).
-- **Propósito:** Unir cultura maker, criação e pensamento analítico para atuar em home office e viver perto da família.
+- **Propósito:** Unir características pessoais de criatividade e pensamento analítico para atuar em home office e viver perto da família.
 
 ## 📚 Documentação do Plano
 - [01 — Avaliação de Cenário e Perfil de Aprendizagem](./docs/01-cenario-e-perfil.md)
@@ -15,7 +15,7 @@ Repositório central de planejamento, estudos práticos e evolução técnica da
 - [03 — Roadmap Completo de Estudos e Portfólio (Dez/26–Mai/27)](./docs/03-roadmap-6-meses.md)
 
 ## 📊 Painel de Progresso
-- [ ] **Fase 0 (Nov/2026):** Adaptação de rotina, setup do ambiente e primeiro commit via VS Code
+- [X] **Fase 0 (Nov/2026):** Adaptação de rotina, setup do ambiente e primeiro commit via VS Code
 - [ ] **Fase 1 (Dez/2026 – Jan/2027):** Fundamentos (SQL, Python para Dados e Git/GitHub)[cite: 2, 5]
 - [ ] **Fase 2 (Fev/2027 – Mar/2027):** Prática diária, Pandas, Power BI avançado + UI no Figma[cite: 3]
 - [ ] **Fase 3 (Abr/2027):** 3 Projetos completos no portfólio + APIs, Docker e Cloud no contexto prático[cite: 4, 5]
