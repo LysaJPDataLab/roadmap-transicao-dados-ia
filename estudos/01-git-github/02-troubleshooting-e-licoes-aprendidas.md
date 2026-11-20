@@ -10,6 +10,8 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
 * **Solução:** Instalar o Git para Windows (mantendo a opção de adicionar ao PATH) e reiniciar completamente o VS Code.
 * **Verificação:** Rodar `git --version` e confirmar o retorno da versão instalada.
 
+![Erro 01](./assets/01-erro-git-nao-reconhecido.png)
+
 ---
 
 ## 2. Push rejeitado por divergência com o repositório remoto
@@ -20,6 +22,8 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
   git pull --rebase origin main
   git push
 * **Prevenção:** Sempre rodar `git pull` antes de começar a editar arquivos localmente caso tenha feito alguma alteração direto no site do GitHub.
+
+![Erro 02](./assets/02-erro-push-rejected.png)
 
 ---
 
@@ -32,6 +36,8 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
 3. Verificar o estado com `git status` e concluir o envio com `git push`.
 * **Prevenção:** Evitar manter repositórios Git dentro de pastas sincronizadas pelo OneDrive (preferir caminhos locais como `C:\Projetos\`).
 
+![Erro 03](assets/03-erro-deletion-of-directory-rebase.png)
+
 ---
 
 ## 4. Rebase preso com erro ao apagar `.git/rebase-merge`
@@ -41,3 +47,5 @@ Registro de erros reais encontrados durante a configuração e os primeiros envi
   ```powershell
   Remove-Item -Recurse -Force ".\.git\rebase-merge"
 * **Verificação:** Reabrir o VS Code e confirmar com `git status` que o aviso `You are currently rebasing` desapareceu.
+
+![Eroo 04](assets/04-erro-deletion-rebase-merge.png)
