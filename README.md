@@ -14,6 +14,7 @@ Repositório central de planejamento, estudos práticos e evolução técnica da
 - [02 — Diagnóstico de Rotina, Adaptação (Nov/26) e Cronograma](./docs/02-rotina-e-cronograma.md)
 - [03 — Roadmap Completo de Estudos e Portfólio (Dez/26–Mai/27)](./docs/03-roadmap-6-meses.md)
 - [04 — Diário de Bordo](./docs/04-diario-de-bordo.md)
+- [05 — Mural de Conquistas & Badges](./docs/05-mural-de-conquistas.md)
 
 ## 📊 Painel de Progresso
 - [X] **Fase 0 (Nov/2026):** Adaptação de rotina, setup do ambiente e primeiro commit via VS Code
@@ -21,6 +22,11 @@ Repositório central de planejamento, estudos práticos e evolução técnica da
 - [ ] **Fase 2 (Fev/2027 – Mar/2027):** Prática diária, Pandas, Power BI avançado + UI no Figma[cite: 3]
 - [ ] **Fase 3 (Abr/2027):** 3 Projetos completos no portfólio + APIs, Docker e Cloud no contexto prático[cite: 4, 5]
 - [ ] **Fase 4 (Mai/2027):** Posicionamento, LinkedIn/CV, simulações técnicas e candidaturas ativas[cite: 6]
+
+## 🏆 Últimas Conquistas
+<p>
+  <img src="./assets/badges/01-primeiro-commit.png" width="85" alt="Primeiro Commit" title="Primeiro Commit — 20/11/2026" />
+</p>
 
 ## 🛡️ Regras de Ouro do Repositório
 1. **Confidencialidade absoluta:** Nenhum dado real de operação, parques eólicos ou relatórios do Delfos é publicado aqui. Toda prática inspirada no trabalho utiliza dados 100% sintéticos.
