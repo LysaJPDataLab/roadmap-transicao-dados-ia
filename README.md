@@ -13,6 +13,7 @@ Repositório central de planejamento, estudos práticos e evolução técnica da
 - [01 — Avaliação de Cenário e Perfil de Aprendizagem](./docs/01-cenario-e-perfil.md)
 - [02 — Diagnóstico de Rotina, Adaptação (Nov/26) e Cronograma](./docs/02-rotina-e-cronograma.md)
 - [03 — Roadmap Completo de Estudos e Portfólio (Dez/26–Mai/27)](./docs/03-roadmap-6-meses.md)
+- [04 — Diário de Bordo](./docs/04-diario-de-bordo.md)
 
 ## 📊 Painel de Progresso
 - [X] **Fase 0 (Nov/2026):** Adaptação de rotina, setup do ambiente e primeiro commit via VS Code
