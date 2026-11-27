@@ -14,7 +14,7 @@ Esta não é uma transição "do zero", mas um **reposicionamento estratégico**
 
 ### Riscos mapeados e como neutralizá-los
 - **Excesso de cursos disponíveis:** Ter Asimov, Alura, Hotmart, EBAC, United e Cambly ao mesmo tempo gera paralisia de escolha. **Solução:** Cada curso tem um papel único e momento exato no roadmap.
-- **Desvio de foco pela trilha genérica de TI:** Trilhas gerais incluem tópicos voltados a Engenharia de Software (Java/C++, CRUD de back-end, redes/SO densos, Codeforces)[cite: 2, 3, 4]. **Solução:** Filtrar estritamente para Dados e IA.
+- **Desvio de foco pela trilha genérica de TI:** Trilhas gerais incluem tópicos voltados a Engenharia de Software (Java/C++, CRUD de back-end, redes/SO densos, Codeforces). **Solução:** Filtrar estritamente para Dados e IA.
 - **Tentação de dividir carreira (Dados vs. UX/UI):** O curso da EBAC não será feito em paralelo como segunda carreira, mas usado como **biblioteca de consulta pontual** (Figma e hierarquia visual) para elevar o nível visual dos dashboards de Power BI.
 
 ---
