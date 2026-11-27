@@ -19,7 +19,7 @@ Objetivo: Testar os horários, montar o ambiente e vencer o atrito inicial **sem
 
 | Período | Foco | Entregas Práticas |
 | :--- | :--- | :--- |
-| **19/11 a 22/11** (Qui–Dom) | Setup e Ambiente | Instalar/configurar Git + Python + VS Code; criar o repo `roadmap-transicao-dados-ia` no `@LysaJPDataLab`; subir os arquivos deste plano (1º commit real)[cite: 5]; testar 2 treinos curtos às 19h. |
+| **19/11 a 22/11** (Qui–Dom) | Setup e Ambiente | Instalar/configurar Git + Python + VS Code; criar o repo `roadmap-transicao-dados-ia` no `@LysaJPDataLab`; subir os arquivos deste plano (1º commit real); testar 2 treinos curtos às 19h. |
 | **23/11 a 29/11** (Seg–Dom) | Semana Piloto | Rodar a grade semanal abaixo em versão leve (30 min/bloco); fixar o agendamento recorrente da United e do Cambly; validar horário de dormir (22h30) e fluxo das marmitas. |
 | **30/11** (Seg) | Calibragem | Revisar o que funcionou e o que pesou na semana piloto; ajustar o quadro no Trello para a largada oficial da Fase 1 em 01/12/2026. |
 
