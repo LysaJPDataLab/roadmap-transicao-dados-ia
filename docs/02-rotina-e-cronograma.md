@@ -33,7 +33,7 @@ Carga líquida estimada: **5h30 a 7h30/semana de Tech** + **2h30/semana de Ingl�
 | :--- | :--- | :--- | :--- | :--- |
 | **Segunda** | Treino em casa (25 min) + banho | Jantar (marmita) | **Tech (45 min):** SQL (Hotmart) — teoria curta + prática | Tração logo no início da semana |
 | **Terça** | Alongamento / descanso + banho | Jantar (marmita) | **Inglês (1h):** Aula formal United (agendamento fixo) | Base estruturada A1 sem competir com código |
-| **Quarta** | Treino em casa (25 min) + banho | Jantar (marmita) | **Tech (45 min):** Python (Asimov) + commit no GitHub | Consistência no meio da semana[cite: 3] |
+| **Quarta** | Treino em casa (25 min) + banho | Jantar (marmita) | **Tech (45 min):** Python (Asimov) + commit no GitHub | Consistência no meio da semana |
 | **Quinta** | Alongamento / descanso + banho | Jantar (marmita) | **Inglês (30 min):** Cambly (fixo) + **Tech (30 min):** Git/Alura ou prática | Conversação leve + ferramenta |
 | **Sexta** | Treino em casa (25 min) + banho | Jantar livre | **Descanso total / Lazer** | Proteção da motivação e saúde mental |
 | **Sábado (com diarista)** | Manhã: Feira + descanso | — | **Bloco Ouro (2h30):** Prática pesada (SQL + Python / Projetos) | Maior salto técnico da quinzena |
